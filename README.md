@@ -1,4 +1,4 @@
-# Grupo de Arganzuela de Coronavirus Makesr
+# Grupo de Arganzuela de Coronavirus Makers
 
 En este sitio mantenemos información útil para la coordinación del grupo de Arganzuela de [Coronavirus Makers](https://www.coronavirusmakers.org).
 

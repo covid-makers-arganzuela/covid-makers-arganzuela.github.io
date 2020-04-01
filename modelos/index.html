@@ -1,16 +1,13 @@
-<html>
-  <body>
-    <script>
-      (async () => {
-        const response = await fetch('https://api.github.com/repos/covid-makers-arganzuela/covid-makers-arganzuela.github.io/contents/modelos');
-        const data = await response.json();
-        let htmlString = '<ul>';
-        for (let file of data) {
-          htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
-        }
-        htmlString += '</ul>';
-        document.getElementsByTagName('body')[0].innerHTML = htmlString;
-      })()
-    </script>
-  <body>
+<!DOCTYPE HTML>                                                                
+<html lang="en">                                                                
+    <head>                                                                      
+        <meta charset="utf-8">
+        <meta http-equiv="refresh" content="0;url=https://github.com/covid-makers-arganzuela/covid-makers-arganzuela.github.io/tree/master/modelos" />      
+        <link rel="canonical" href="https://github.com/covid-makers-arganzuela/covid-makers-arganzuela.github.io/tree/master/modelos" />                    
+    </head>                                                                                                                                                                  
+    <body>                                                                      
+        <h1>                                                                    
+            The page been moved to <a href="https://github.com/covid-makers-arganzuela/covid-makers-arganzuela.github.io/tree/master/modelos">https://github.com/covid-makers-arganzuela/covid-makers-arganzuela.github.io/tree/master/modelos</a>
+        </h1>                                                                  
+    </body>                                                                    
 </html>

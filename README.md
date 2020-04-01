@@ -1,6 +1,6 @@
 # Grupo de Arganzuela de Coronavirus Makers
 
-(prototipo no está en funcionamiento)
+(Prototipo. No está en funcionamiento)
 
 En este sitio mantenemos información útil para la coordinación del grupo de Arganzuela de [Coronavirus Makers](https://www.coronavirusmakers.org).
 

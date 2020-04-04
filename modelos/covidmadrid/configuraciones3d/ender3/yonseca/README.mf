@@ -1,0 +1,11 @@
+Este modelo incluye todos los objetos del modelo «homologado» en una impresión. 
+
+# Ajustes 
+
+## Velocidad
+ - Velocidad de impresión: 80 mm/s
+ - Velocidad de desplazamiento: 150 mm/s
+ - Resto de ajustes de velocidad: calculados por Cura
+
+## Perímetro
+ - Patrón de relleno: Giroide

@@ -5,6 +5,9 @@ retiró la homologación. Dos tipos de impresión A (única) / B (partes) ambas 
 
  * Ver ficha: https://covidmadrid.com/modelos-a-imprimir/
 
+Tetones para la parte frontal (Remache Frontal):
+ - Probablemente necesitan escalado y ajustado
+
 ## Prueba de tolerancia
 
 Se recomienda antes de imprimir el modelo realizar la prueba de tolerancia: https://covidmadrid.com/prueba-de-tolerancia/
